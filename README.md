@@ -7,3 +7,4 @@ Weights are ported from the original models and are available [here](https://meg
 
 This code was tested with `Keras` v1.2.2, `Tensorflow` v1.0.0, `OpenCV` v3.1.0-dev
 # ssd_keras
+# shgidi_ssd_keras
